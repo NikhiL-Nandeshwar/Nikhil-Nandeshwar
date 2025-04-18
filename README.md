@@ -42,14 +42,14 @@ Topics I write about:
 ## 📌 Projects
 
 - 🏫 Educational ERP: Role-based app with modules like Admissions, Fees, Teacher Management — built with React and Next.js.
-- 📚 Rebuilt and modernized legacy HTML websites (bookshop & graduation projects).
+- 📚 Rebuilt and modernized legacy websites (bookshop & graduation projects).
 - 🧪 Personal POCs using React Hook Form, validations, and custom components.
 
 ---
 
-## 🌱 Currently Exploring
+## 🌱 Currently Exploring/Following
 
-- Freelancing opportunities and collaborations
+- Tech stacks, AI developments, Freelancing opportunities and collaborations
 - Fitness, core training & nutrition 
 
 ---
