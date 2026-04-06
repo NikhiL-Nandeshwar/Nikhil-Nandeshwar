@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Nikhil Nandeshwar
 
-I'm a **Front-end Developer** from India, with a Master’s in Information Systems (Dublin, Ireland) and a strong passion for building intuitive, responsive, and efficient web applications. 
+I'm a **Full-stack Developer** from India, with a Master’s in Information Systems (Dublin, Ireland) and a strong passion for building intuitive, responsive, and efficient web applications. 
 
 Currently working on a large-scale **Educational ERP** and contributing to various freelance and open-source projects using **React, Next.js, Tailwind CSS, and Shadcn UI**.
 
